@@ -1,0 +1,7 @@
+[
+{"name":"Ivanov", "country":"Russia", "city":"Moscow", "age":"null"},
+{"name":"Petrov", "country":"Belorussia", "city":"Minsk", "age":"27"},
+{"name":"Sidorov", "country":"Czechia", "city":"Praga", "age":"33"},
+{"name":"Noskov", "country":"Serbia", "city":"Belgrad", "age":"39"},
+{"name":"Stoyanov", "country":"null", "city":"Sofiya", "age":"27"}
+]
